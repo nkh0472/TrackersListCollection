@@ -6,6 +6,10 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://threads.canofsocks.com:443/announce
+
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -60,8 +64,6 @@ udp://aegir.sexy:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -81,8 +83,6 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
-
-udp://free.publictracker.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
@@ -130,9 +130,9 @@ udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -213,6 +213,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
